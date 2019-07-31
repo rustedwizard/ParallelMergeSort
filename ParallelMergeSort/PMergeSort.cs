@@ -2,7 +2,7 @@
 
 namespace ParallelMergeSort
 {
-    public class Class1
+    public class PMergeSort
     {
     }
 }
